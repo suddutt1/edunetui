@@ -20,4 +20,4 @@ docker-compose up -d
 
 ### EDUNET Student UI [ http://localhost:8080 ]
 ### EDUNET IIT JODHPUR UI [ http://localhost:8081 ]
-### EDUNET IIT KJP UI [ http://localhost:8082 ]
+### EDUNET IIT KGP UI [ http://localhost:8082 ]
